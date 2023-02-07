@@ -110,7 +110,7 @@ main{
 
 #tasks .task .actions{
     display: flex;
-    margin: 0 -9.1rem;
+    margin: 0 -9.6rem;
 }
 
 .task .actions button, .save{
